@@ -6,6 +6,9 @@ BOOTHで販売されているアバターの情報をまとめた.json
 
 BOOTHにて販売されているアバターの情報をjson型式でまとめたものです。
 
+> **Note**
+> 販売終了したアバターは含まれていません。
+
 ## 項目
 
 ### Avatar Name
@@ -45,3 +48,25 @@ BOOTHにおいての商品名です。
 [Meilisearch](https://www.meilisearch.com)に導入するなどして使用してください。
 
 ![Example](https://github.com/routehachi/BOOTH-AvatarList/blob/main/example.png?raw=true)
+
+## ショップ別対応一覧(追加順)
+
+- あまとうさぎ
+- キュビクローゼット
+- namekuji1337
+- はみにの立体箱
+- ポンデロニウム研究所
+- 『オレンジみかん』栽培所
+- T.GardeN
+- FRIENDLY PLANET
+- くつした屋
+- たつお研究所
+- ぷらすわん
+- むたちゃんねる販売所
+- こよりLabo
+- JINGO CHANNEL
+- かぷちやのぶーす
+- もち山金魚
+- studio nanodes
+- なっふな堂
+- QuQu
