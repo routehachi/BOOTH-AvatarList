@@ -39,3 +39,5 @@ BOOTHにおいての商品名です。
 ### 使用例
 
 [Meilisearch](https://www.meilisearch.com)に導入するなどして使用してください。
+
+![Example](https://github.com/routehachi/BOOTH-AvatarList/blob/main/example.png?raw=true)
