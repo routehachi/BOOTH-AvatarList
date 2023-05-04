@@ -47,6 +47,9 @@ BOOTHにおいての商品名です。
 
 [Meilisearch](https://www.meilisearch.com)に導入するなどして使用してください。
 
+> **Note**
+> 検索性を高めるため、ID,URL,IMAGE URLは検索対象に含めないことをお勧めします。
+
 ![Example](https://github.com/routehachi/BOOTH-AvatarList/blob/main/example.png?raw=true)
 
 ## ショップ別対応一覧(追加順)
