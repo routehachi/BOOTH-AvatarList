@@ -6,37 +6,41 @@ BOOTHで販売されているアバターの情報をまとめた.json
 
 BOOTHにて販売されているアバターの情報をjson型式でまとめたものです。
 
-### 項目
+## 項目
 
-#### Avatar Name
+### Avatar Name
 
 アバターの名前です。
 
-#### Product Name
+### Product Name
 
 BOOTHにおいての商品名です。
 
-#### Price
+### Price
 
 価格です（日本円表記）。
 
-#### Author
+### Author
 
 アバターの制作者名です。
 
-#### Shop Name
+### Shop Name
 
 ショップ名です。
 
-#### URL
+### URL
 
 アバターの販売ページへのURLです。
 
-#### Image
+### Image
 
 メインで表示されているアバターの商品画像のURLです。
 
-### 使用例
+### Alias
+
+アバターに関連する追加ワードです。（Meilisearchで検索性を上げるため）
+
+## 使用例
 
 [Meilisearch](https://www.meilisearch.com)に導入するなどして使用してください。
 
