@@ -73,3 +73,9 @@ BOOTHにおいての商品名です。
 - studio nanodes
 - なっふな堂
 - QuQu
+- ひゅうがなつみかん
+- かなﾘぁさんち
+- ゴールデン商会
+- IMR義体工廠
+- こここや
+- Atelier Alca
