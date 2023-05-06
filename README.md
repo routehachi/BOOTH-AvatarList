@@ -79,3 +79,8 @@ BOOTHにおいての商品名です。
 - IMR義体工廠
 - こここや
 - Atelier Alca
+- ツクルノモリ公式
+- mio3io
+- Yorshka Shop
+- KUROMARU9
+- ⊿S.I.N
