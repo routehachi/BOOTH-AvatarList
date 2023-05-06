@@ -54,6 +54,8 @@ BOOTHにおいての商品名です。
 
 ## ショップ別対応一覧(追加順)
 
+<details><summary>長いので折りたたみ</summary><div>
+
 - あまとうさぎ
 - キュビクローゼット
 - namekuji1337
@@ -84,3 +86,5 @@ BOOTHにおいての商品名です。
 - Yorshka Shop
 - KUROMARU9
 - ⊿S.I.N
+
+</div></details>
